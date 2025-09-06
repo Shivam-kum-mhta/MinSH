@@ -1,8 +1,9 @@
 # Mini-Shell
 
 <p align="center">
-  <img width="400" height="150" src="/logo2.png">
+<img width="375" height="174" alt="image" src="https://github.com/user-attachments/assets/31d42f04-d7d3-4142-aea1-c9326ef53250" />
 </p>
+
 
 ## Brief Description
 A simple implementation of the Unix Shell in the C Programming language. This project was coded and tested in Ubuntu 17.04.
@@ -47,4 +48,5 @@ When you type a command into minsh, it first looks for the command in the list o
   * Pipes
   * More commands
   * Shell Variables
+
 
